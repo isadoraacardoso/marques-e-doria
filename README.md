@@ -19,18 +19,18 @@ Este é um projeto web desenvolvido para o escritório **Marques e Dória**, com
 
 ## ▶️ Como executar localmente
 
-1. Clone o repositório:
+1. Clone o repositório: <br>
 
-``bash
-git clone https://github.com/isadoraacardoso/marques-e-doria.git
+``bash <br>
+git clone https://github.com/isadoraacardoso/marques-e-doria.git <br>
 cd marques-e-doria
 
-2. Instale as dependências
+2. Instale as dependências <br>
    npm install
 
-3. Inicie o servidor de desenvolvimento:
+3. Inicie o servidor de desenvolvimento: <br>
    npm run dev
  
-Desenvolvido por
-Isadora Aparecida Cardoso Carvalho
+Desenvolvido por  <br>
+Isadora Aparecida Cardoso Carvalho <br>
 Desenvolvedora de Software
