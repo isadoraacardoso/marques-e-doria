@@ -21,9 +21,9 @@ Este é um projeto web desenvolvido para o escritório **Marques e Dória**, com
 
 1. Clone o repositório: <br>
 
-``bash <br>
-git clone https://github.com/isadoraacardoso/marques-e-doria.git <br>
-cd marques-e-doria
+   ``bash <br>
+   git clone https://github.com/isadoraacardoso/marques-e-doria.git <br>
+   cd marques-e-doria
 
 2. Instale as dependências <br>
    npm install
